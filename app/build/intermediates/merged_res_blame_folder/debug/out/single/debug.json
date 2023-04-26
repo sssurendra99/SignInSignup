@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/drawable_signin.xml.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/drawable/signin.xml"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/drawable_visibility_off_48px.xml.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/drawable/visibility_off_48px.xml"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.signinandsignup.app-merged_res-50:/drawable_visibility_48px.xml.flat",
+        "source": "com.example.signinandsignup.app-main-52:/drawable/visibility_48px.xml"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/drawable_visibility_48px.xml.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/drawable/visibility_48px.xml"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.signinandsignup.app-merged_res-50:/drawable_visibility_off_48px.xml.flat",
+        "source": "com.example.signinandsignup.app-main-52:/drawable/visibility_off_48px.xml"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-merged_res-50:/xml_backup_rules.xml.flat",
+        "source": "/home/warrior/.gradle/daemon/8.0/com.example.signinandsignup.app-main-52:/xml/backup_rules.xml"
+    }
+]

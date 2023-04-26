@@ -1,0 +1,10 @@
+#Tue Apr 25 15:40:41 IST 2023
+base.0=/home/warrior/Development/All_Android_apps/SignInandSignup/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/home/warrior/Development/All_Android_apps/SignInandSignup/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.2=/home/warrior/Development/All_Android_apps/SignInandSignup/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/11/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=11/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
